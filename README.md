@@ -1,6 +1,6 @@
 # RegexAssignment
 
-This Python File is fetching data from html table and create new file in same directory or folder with respective data.
+This Python File is fetching data from html table using **regex** and create new file in same directory or folder with respective data.
 
 ## How Execute this file ?
 
